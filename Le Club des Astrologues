@@ -5,6 +5,9 @@
         <title>Project: Blog</title>
     </head>
     <body>
+
+<!--depuis le temps que j'en parle de ce blog... le voilà. L'histoire nous dira s'il évoluera ou pas...-->
+
     <style>
         body {
             background-color:rgb(179, 114, 127);
