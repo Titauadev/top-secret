@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Blog</title>
+    </head>
+    <body>
+    <style>
+        body {
+            background-color:rgb(179, 114, 127);
+            color:white;
+            font-family:monospace;
+            font-size:15px;
+            
+        
+        }
+        
+        h1 {
+            font-family:fantasy;
+            
+        
+            
+        }
+        
+        .sommaire {
+            font-family:serif;
+            font-style: italic;
+            font-weight:bold;
+        
+        }
+        
+        .texte {
+            font-family:monospace;
+            line-height:1.5em;
+        }
+            
+        
+    </style>
+    
+<h1 align="center">Le Club des Astrologues </h1>  
+
+<center>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Gottfried_Geburtsbild.jpg/220px-Gottfried_Geburtsbild.jpg">
+</center>
+
+<h6 align="center"><em>Et les dinguos de l'astro labo</em></h6>
+
+<h3 class="sommaire">Sommaire</h3>
+    
+    <ul class="sommaire">
+      <li><a href="#les axes"> Les Axes des Noeuds </a></li>
+      <li><a href="#noeud sud">Le Noeud Sud</a></li>
+      <li><a href="#noeud nord">Le Noeud Nord</a></li>
+  </ul>
+  
+  <!--Post 1-->
+  
+  <h6>14 mai 2024</h6>
+  <h2 id="les axes">Les Axes des Noeuds Lunaires</h2>
+  
+  <p class="texte">En astrologie, il existe une branche dédiée à l'astrologie karmique. Les axes ds noeuds représentent la colonne vertébrale du thème astral. En fait, avant de venir au monde, votre âme savait exactement quuoi faire pour évoluer. Mais le traumatisme de la naissance lui a fait tout oublier ! Mais heureusement, on a tout prévu: les axes des noeuds sont là pour raviver la mémoire. C'est comme une boussole cosmique.</p>
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Lunar_eclipse_diagram-fr.svg/320px-Lunar_eclipse_diagram-fr.svg.png">
+  
+  
+  <!--Post 2-->
+  
+  <h6>15 mai 2024</h6>
+  <h2 id="noeud sud">Le Noeud Sud</h2>
+  <p class="texte">Le Noeud Sud ou la Queue du Dragon c'est l'ensemble de notre héritage karmique, ou en d'autres termes, c'est les conditionnements de nos vies passées. Le Noeud Sud est facile à vivre en tout début de vie, c'est comme une évidence, mais très vite, ça devient compliqué...c'est les fameux bâtons dans les roues! Cela équivaut aussi aux plantages de connexion internet, ou mieux encore, la poisse ! Quand une personne est bloquée dans son noeud sud, ça se voit jusqu'à sa tenue vestimentaire. Nous verrons dans une prochaine publication comment cela se manifeste dans notre vie, et ce de manière très précise. </p>
+  
+  <center>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Horoskop.jpg/220px-Horoskop.jpg">
+  </center>
+  
+  <!-- Post 3-->
+  <h6>17 mai 2024</h6>
+  <h2 id="noeud nord">Le Noeud Nord</h2>
+  <p class="texte">Le Noeud Nord ou la Tête du dragon, c'est ce vers quoi nous devons aller pour réaliser le chemin de l'âme. Ce n'est pas forcément inconfortable d'aller vers son noeud nord, c'est simplement ennuyeux, insipide, bof, la flemme, c'est le "quel intérêt". Et pourtant, à chaque fois qu'on pose une action "noeud nord", il se passer un truc étrange... ça marche ! Tout à coup, l'ordinateur qui marchait au ralenti, commence à planter de moins en moins, puis mieux encore, au fur et à mesure qu'on avance dans son noeud nord, la machine s'accélère, ça devient rapide, fluide, cool, malgré les tsunamis de la vie ! Nous verrons dans une prochaines publication à quoi ressemble un mode de fonctionnement Noeud Nord.</p>
+  
+  <center>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Astrological_Glyphs.svg/220px-Astrological_Glyphs.svg.png">
+ </center>
+        
+        
+    </body>
+</html>
